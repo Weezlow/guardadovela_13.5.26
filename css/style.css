@@ -1,0 +1,10 @@
+h1{
+    font-family: Arial, sans-serif;
+}
+
+canvas{
+    display: block;
+    margin: auto;
+    background-color: black;
+    border: 2px solid white;
+}
